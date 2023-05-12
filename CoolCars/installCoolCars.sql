@@ -46,6 +46,7 @@ prompt ________________
 @@tables/CarsConstraints.sql
 @@types/car_car_t.sql
 @@types/car_cars_t.sql
+@@types/car_cars_ref_t.sql
 @@functions/get_cars.sql
 @@functions/get_cars_piped.sql
 @@views/car_ov_cars.sql
