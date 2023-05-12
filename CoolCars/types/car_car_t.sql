@@ -13,6 +13,7 @@ create or replace type car_car_t as object
     return self as result
   , member function daily_rate(p_date date) 
     return number
+  , map member function car_size return number
   , member procedure print
 )
 /
@@ -61,6 +62,12 @@ create or replace type body car_car_t is
     l_rate := r_cae.dailyrate;
     return l_rate;
   end;
+  
+  map member function car_size return number is
+  begin
+    return 6 - category; -- or some more complex calculation
+  end;
+  
   member procedure print
   is
     l_daily_rate number;
