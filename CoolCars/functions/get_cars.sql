@@ -3,14 +3,14 @@ return car_cars_t is
   l_cars car_cars_t;
 begin
   select cast(multiset(
-  select license
-  ,      category
-  ,      year
-  ,      brand
-  ,      model
-  ,      city
-  ,      country
-  from cars
+    select license
+    ,      category
+    ,      year
+    ,      brand
+    ,      model
+    ,      city
+    ,      country
+    from cars
   ) as car_cars_t)
   into l_cars
   from dual;
