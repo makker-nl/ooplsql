@@ -1,0 +1,600 @@
+Car 1:
+License : 79-JF-VP
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Amsterdam
+Country : The Netherlands
+Car 2:
+License : 15-DF-HJ
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Amsterdam
+Country : The Netherlands
+Car 3:
+License : 54-KK-RT
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Amsterdam
+Country : The Netherlands
+Car 4:
+License : 34-FT-LK
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Amsterdam
+Country : The Netherlands
+Car 5:
+License : 91-CF-LM
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Amsterdam
+Country : The Netherlands
+Car 6:
+License : UG6MT4
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : London
+Country : United Kingdom
+Car 7:
+License : VK8DG4
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : London
+Country : United Kingdom
+Car 8:
+License : JR8GG1
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : London
+Country : United Kingdom
+Car 9:
+License : FE2YI2
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : London
+Country : United Kingdom
+Car 10:
+License : OMV3LL
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : London
+Country : United Kingdom
+Car 11:
+License : 54646
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Tokyo
+Country : Japan
+Car 12:
+License : 545464
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Tokyo
+Country : Japan
+Car 13:
+License : 81548
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Tokyo
+Country : Japan
+Car 14:
+License : 849161
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Tokyo
+Country : Japan
+Car 15:
+License : 68461
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Tokyo
+Country : Japan
+Car 16:
+License : SOCOOL
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Los Angeles, California
+Country : United States
+Car 17:
+License : EF7D44
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Los Angeles, California
+Country : United States
+Car 18:
+License : KYT45D
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Los Angeles, California
+Country : United States
+Car 19:
+License : DKL4G
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Los Angeles, California
+Country : United States
+Car 20:
+License : GR5G5
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Los Angeles, California
+Country : United States
+Car 21:
+License : T45GG1
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Las Vegas, Nevada
+Country : United States
+Car 22:
+License : J6EK5H5
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Las Vegas, Nevada
+Country : United States
+Car 23:
+License : HAER5H
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Las Vegas, Nevada
+Country : United States
+Car 24:
+License : H56EH
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Las Vegas, Nevada
+Country : United States
+Car 25:
+License : H1KEAR2
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Las Vegas, Nevada
+Country : United States
+Car 26:
+License : 8AH5EF
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Madrid
+Country : Spain
+Car 27:
+License : 9HH25
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Madrid
+Country : Spain
+Car 28:
+License : AQRE5H
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Madrid
+Country : Spain
+Car 29:
+License : 8AH55
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Madrid
+Country : Spain
+Car 30:
+License : ERH5WG
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Madrid
+Country : Spain
+Car 31:
+License : AHE415A
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Hong Kong
+Country : Peoples Republic of China
+Car 32:
+License : A5ER45
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Hong Kong
+Country : Peoples Republic of China
+Car 33:
+License : J5RTAH
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Hong Kong
+Country : Peoples Republic of China
+Car 34:
+License : 56JAEJ
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Hong Kong
+Country : Peoples Republic of China
+Car 35:
+License : LAJT66R
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Hong Kong
+Country : Peoples Republic of China
+Car 36:
+License : MG48R51
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : San Francisco, California
+Country : United States
+Car 37:
+License : 8481HEF
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : San Francisco, California
+Country : United States
+Car 38:
+License : FD5HA5
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : San Francisco, California
+Country : United States
+Car 39:
+License : 6H5100
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : San Francisco, California
+Country : United States
+Car 40:
+License : HE4RH0
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : San Francisco, California
+Country : United States
+Car 41:
+License : T83FOJ
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Miami, Florida
+Country : United States
+Car 42:
+License : 45N7447
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Miami, Florida
+Country : United States
+Car 43:
+License : EJQTU
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Miami, Florida
+Country : United States
+Car 44:
+License : 75YMO8
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Miami, Florida
+Country : United States
+Car 45:
+License : 68YQY1
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Miami, Florida
+Country : United States
+Car 46:
+License : YH356
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : London
+Country : United Kingdom
+Car 47:
+License : 686QT
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : London
+Country : United Kingdom
+Car 48:
+License : 68YBRQ
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : London
+Country : United Kingdom
+Car 49:
+License : YB545B
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : London
+Country : United Kingdom
+Car 50:
+License : U458Q
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : London
+Country : United Kingdom
+Car 51:
+License : UN55U4
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Singapore 
+Country : Singapore
+Car 52:
+License : 8254RY
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Singapore 
+Country : Singapore
+Car 53:
+License : I2N4YRT
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Singapore 
+Country : Singapore
+Car 54:
+License : N24746UQ
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Singapore 
+Country : Singapore
+Car 55:
+License : RN2445
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Singapore 
+Country : Singapore
+Car 56:
+License : 82TUW4
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Seattle, Washington
+Country : United States
+Car 57:
+License : N45UW
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Seattle, Washington
+Country : United States
+Car 58:
+License : 62QR
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Seattle, Washington
+Country : United States
+Car 59:
+License : W56U245
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Seattle, Washington
+Country : United States
+Car 60:
+License : NY24YQ
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Seattle, Washington
+Country : United States
+Car 61:
+License : QWB476
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Orlando, Florida
+Country : United States
+Car 62:
+License : 571848H
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Orlando, Florida
+Country : United States
+Car 63:
+License : U14UQ4
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Orlando, Florida
+Country : United States
+Car 64:
+License : U12QEI
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Orlando, Florida
+Country : United States
+Car 65:
+License : U7NI8
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Orlando, Florida
+Country : United States
+Car 66:
+License : H4M3Y
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Saint Louis, Missouri
+Country : United States
+Car 67:
+License : EJ32JEM
+Category: 2
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Saint Louis, Missouri
+Country : United States
+Car 68:
+License : YJJYR55
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Saint Louis, Missouri
+Country : United States
+Car 69:
+License : 454JQA
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Saint Louis, Missouri
+Country : United States
+Car 70:
+License : JH5U9471
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Saint Louis, Missouri
+Country : United States
+Car 71:
+License : 28YMQ4
+Category: 1
+Year    : 2002
+Brand   : BMW
+Model   : 320D
+City    : Minneapolis/Saint Paul
+Country : United States
+Car 72:
+License : 84HWN
+Category: 3
+Year    : 2001
+Brand   : Peugeot
+Model   : 406
+City    : Minneapolis/Saint Paul
+Country : United States
+Car 73:
+License : IHA74E2
+Category: 3
+Year    : 2003
+Brand   : Renault
+Model   : Megane
+City    : Minneapolis/Saint Paul
+Country : United States
+Car 74:
+License : TJQJ53
+Category: 4
+Year    : 2002
+Brand   : Fiat
+Model   : Stilo
+City    : Minneapolis/Saint Paul
+Country : United States
+Car 75:
+License : TQ7534
+Category: 5
+Year    : 2000
+Brand   : Toyota
+Model   : Starlet
+City    : Minneapolis/Saint Paul
+Country : United States
