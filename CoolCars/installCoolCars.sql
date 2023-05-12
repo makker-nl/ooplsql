@@ -20,13 +20,6 @@ select lower(decode( instr(gn.global_name, '.WORLD')
 from global_name  gn
 /
 
---Prompt
---Prompt Press Enter To Start
---prompt ____________________
---pause;
-
---spool &script_name._for_&schema_name._at_&database..log
-
 prompt
 prompt Start Script
 prompt ____________
@@ -63,6 +56,3 @@ select global_name "Database"
 ,      to_char(sysdate, '&date_format.') "End Date"
 from global_name
 /
-
-
-spool off;
