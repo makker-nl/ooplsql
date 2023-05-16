@@ -7,7 +7,7 @@ The schema CoolCars has been tested on Oracle 19c database, for the article [A c
 Install the CoolCars components using the script [installCoolCars.sql](CoolCars/installCoolCars.sql)
 
 ## HappyHotels
-Install the HappyHotels components using the script [installHappyHotels.sql](CoolCars/installHappyHotels.sql)
+Install the HappyHotels components using the script [installHappyHotels.sql](HappyHotels/installHappyHotels.sql)
 
 ## TrickyTrips
-Install the TrickyTrips components using the script [installTrickyTrips.sql](CoolCars/installTrickyTrips.sql)
+Install the TrickyTrips components using the script [installTrickyTrips.sql](TrickyTrips/installTrickyTrips.sql)
