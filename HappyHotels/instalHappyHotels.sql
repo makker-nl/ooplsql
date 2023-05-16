@@ -1,5 +1,5 @@
 define date_format='DD-MM-YYYY HH24:MI:SS'
-define script_name='installCoolCars'
+define script_name='installHappyHotels'
 
 set feedback off;
 set verify off;
@@ -16,25 +16,16 @@ from global_name
 Prompt
 Prompt Actual Script
 Prompt _____________
-Prompt
-
 
 prompt
-prompt Install Cool Cars objects
-prompt ________________
+prompt Fill schema hotel
+prompt _________________
 
-
-@@tables/Cars.sql
-@@tables/CarCustomers.sql
-@@tables/CarsAvailable.sql
-@@tables/CarsBooked.sql
-@@tables/CarsConstraints.sql
-@@types/car_car_t.sql
-@@types/car_cars_t.sql
-@@types/car_cars_ref_t.sql
-@@functions/get_cars.sql
-@@functions/get_cars_piped.sql
-@@views/car_ov_cars.sql
+@@Hotels.sql
+@@RoomCustomers.sql
+@@RoomsAvailable.sql
+@@RoomsBooked.sql
+@@HotelsConstraints.sql
 
 prompt
 prompt End Script
